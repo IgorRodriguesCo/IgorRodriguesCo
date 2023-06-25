@@ -1,9 +1,7 @@
 
 
 # Olá! :wave:
-Sou interessado em desenvolvimento web com frameworks javascript como React e Vue no front-end, e Express em Node.js no back-end. 
-Familiarizado com bando de dados relacionais como MySQL e PostgreSQL.
-Atualmente estou aprendendo, estudando e procurando por uma oportunidade para contribuir em soluções para problemas reais.
+Atualmente desvendando o mundo do Svelte.
 
 :globe_with_meridians: [igorrodrigues.net](https://igorrodrigues.net)
 
