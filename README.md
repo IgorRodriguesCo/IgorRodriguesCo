@@ -1,7 +1,7 @@
 
 
 # Olá! :wave:
-Atualmente desvendando o mundo do Svelte.
+Aqui estou distante do trabalho como programador SAP ABAP. Atualmente desvendando o mundo do Svelte, desenvolvendo um projeto pessoal com SvelteKit.
 
 :globe_with_meridians: [igorrodrigues.net](https://igorrodrigues.net)
 
